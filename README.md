@@ -1,7 +1,8 @@
 # Quality-Assurance
 
-1. TestFleshLeftAlign (Black box Testing)
+1.TestFleshLeftAlign (Black box Testing)
 Introduction: 
+
 This project is to create a test suitr to test taht Implementation Under Test (IUT) provides the functionality of aligning 
 text on a page, specifically, flush left text alignment.
 
